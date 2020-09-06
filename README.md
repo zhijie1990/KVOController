@@ -109,3 +109,5 @@ This will install and add test dependencies on OCHamcrest and OCMockito. Re-open
 ## License
 
 KVOController is released under a BSD License. See LICENSE file for details.
+
+test
